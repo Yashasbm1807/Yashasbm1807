@@ -12,7 +12,7 @@ Backend Software Engineer focused on building scalable systems and strong engine
 • Interested in building scalable and reliable systems  
 • Strong interest in distributed systems and backend architecture  
 • Building real-world projects to strengthen core engineering skills  
-• Cloud technologies as an enabling layer, not the primary focus 
+• Cloud technologies as an enabling layer
 
 ---
 
