@@ -16,7 +16,7 @@ Backend Software Engineer focused on building scalable systems and strong engine
 
 ---
 
-## 🛠️ Technologies I Work With
+## Technologies I Work With
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -79,7 +79,7 @@ Backend Software Engineer focused on building scalable systems and strong engine
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/yashasbm2000/  
 
